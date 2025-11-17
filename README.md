@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Rishabh Narula  
+# Hi, I'm Rishabh Narula  
 ### Bioinformatician • Full‑Stack Developer • ML/AI Engineer  
 Boston, MA • LinkedIn • GitHub  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I’m a **Bioinformatician & Full‑Stack Engineer** with 4+ years of experience building high‑impact pipelines, dashboards, cloud systems, and AI tools.  
 I work at the intersection of **genomics, software engineering, and machine learning**, delivering end‑to‑end solutions from raw data → analysis → ML → full‑stack applications.
 
@@ -17,41 +17,41 @@ Key highlights:
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 
-### 🧑‍💻 Programming  
+### Programming  
 **Python, JavaScript, TypeScript, R, SQL, Bash, C/C++, Java, HTML, CSS**
 
-### 🎨 Frontend  
+### Frontend  
 React • Next.js • TailwindCSS • ShadCN/UI  
 
-### 🧩 Backend  
+### Backend  
 FastAPI • Node.js • Express • Flask • JWT Auth • OAuth2 • REST APIs  
 
-### 🗃 Databases  
+### Databases  
 PostgreSQL • MySQL • SQLite • MongoDB  
 
-### ☁️ Cloud / DevOps  
+### Cloud / DevOps  
 AWS (EC2, Lambda, Batch, Fargate, RDS, S3)  
 GCP • Docker • GitHub Actions • CI/CD  
 
-### 🧬 Bioinformatics  
+###  Bioinformatics  
 Bulk RNA‑Seq • scRNA‑Seq • CITE‑Seq  
 Splicing (rMATS, MAJIQ, SUPPA2)  
 Long‑read ONT/Illumina workflows  
 Nextflow • Snakemake • Seurat • Scanpy • STAR • Salmon  
 
-### 🤖 Machine Learning  
+###  Machine Learning  
 PyTorch • TensorFlow • scikit‑learn • YOLO • OpenCV  
 Transformers • LLMs • RAG • LangChain • LangGraph • Vector DBs (FAISS/Chroma)  
 
 ---
 
-# 🔥 Featured Projects  
+#  Featured Projects  
 
 ---
 
-## **📸 FastAPI + Streamlit Photo/Video Sharing App**  
+## ** FastAPI + Streamlit Photo/Video Sharing App**  
 A full media‑sharing app using **FastAPI** backend + **Streamlit** UI.  
 Features:  
 - Upload photos/videos  
@@ -61,14 +61,14 @@ Features:
 
 ---
 
-## **🧬 RNA‑Seq Pipeline**  
+## ** RNA‑Seq Pipeline**  
 Full pipeline from raw FASTQ → QC → Alignment → Quantification → Differential Expression.  
 Tools: STAR, Salmon, featureCounts, DESeq2, rMATS, Nextflow/Snakemake.  
 Outputs: QC reports, BAM files, count matrices, volcano plots, PCA.
 
 ---
 
-## **🧠 Local AI Tracker (YOLO + Raspberry Pi)**  
+## ** Local AI Tracker (YOLO + Raspberry Pi)**  
 - Real‑time object detection + tracking  
 - YOLOv5/8 + PyTorch  
 - Embedded deployment (Raspberry Pi)  
@@ -77,7 +77,7 @@ Outputs: QC reports, BAM files, count matrices, volcano plots, PCA.
 
 ---
 
-## **💊 Patient Database & Clinical Trial Tracker (React + Flask + SQL)**  
+## ** Patient Database & Clinical Trial Tracker (React + Flask + SQL)**  
 - Full‑stack clinical trial management dashboard  
 - Secure APIs (JWT)  
 - Real‑time analytics  
@@ -86,12 +86,12 @@ Outputs: QC reports, BAM files, count matrices, volcano plots, PCA.
 
 ---
 
-## **📊 Interactive Dashboards**  
+## ** Interactive Dashboards**  
 Dash • Plotly • Streamlit apps for QC, expression, splicing & multi‑omics visualization.
 
 ---
 
-# 🏆 What I Bring  
+# What I Bring  
 - End‑to‑end engineering: **pipelines → ML → APIs → frontend → deployment**  
 - Strong genomics + AI expertise  
 - Experience automating scientific workflows  
@@ -100,7 +100,7 @@ Dash • Plotly • Streamlit apps for QC, expression, splicing & multi‑omics 
 
 ---
 
-# 📬 Connect  
+#  Connect  
 **Email:** rishabhnar1996@gmail.com  
 **GitHub:** https://github.com/rishu16111996  
 **LinkedIn:** https://www.linkedin.com/in/rishabh-narula-7a6a3b192  
