@@ -4,7 +4,7 @@ This project implements a modular, production-grade Retrieval-Augmented
 Generation (RAG) system tailored for **RNA splicing research** using PDF
 documents as the knowledge base.
 
-## 🚀 Features
+## Features
 
 -   Load and parse multiple PDFs from the `data/` directory\
 -   Chunk documents using recursive + token-based splitting\
@@ -21,7 +21,7 @@ documents as the knowledge base.
 ## 📁 Project Structure
 
     backend/
-    │── rag_app.py                # Main RAG application
+    │── rag.py                # Main RAG application
     │── helper_utils.py           # Utility helper functions
     │── data/                     # PDF documents for ingestion
     │── storage/
@@ -29,7 +29,7 @@ documents as the knowledge base.
 
 ------------------------------------------------------------------------
 
-## 📦 Installation
+## Installation
 
 Inside your backend folder:
 
@@ -50,12 +50,12 @@ Required libraries include:
 
 ------------------------------------------------------------------------
 
-## 🧠 Running the RAG Query
+## Running the RAG Query
 
 You can run a question from terminal:
 
 ``` bash
-python rag_app.py "What exons are targeted in RNA splicing therapy?"
+python backend/src/scripts/rag.py "What exons are targeted in RNA splicing therapy?"
 ```
 
 This prints:
@@ -65,7 +65,7 @@ This prints:
 
 ------------------------------------------------------------------------
 
-## 🔧 Configuration
+## Configuration
 
 -   PDFs must be placed in the `data/` directory\
 -   Vector DB is persisted automatically in `storage/chroma/`\
@@ -73,15 +73,15 @@ This prints:
 
 ------------------------------------------------------------------------
 
-## 🧪 Example Query
+## Example Query
 
 ``` bash
-python rag_app.py "Which splicing factors regulate exon skipping in DM1?"
+python backend/src/scripts/rag.py "Which splicing factors regulate exon skipping?"
 ```
 
 ------------------------------------------------------------------------
 
-## 🔥 Future Extensions (Optional)
+## Future Extensions (Optional)
 
 -   Add Streamlit UI\
 -   Add FastAPI server endpoint\
@@ -90,7 +90,7 @@ python rag_app.py "Which splicing factors regulate exon skipping in DM1?"
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+## Author
 
 Rishabh Narula --- Computational Biologist & Full‑Stack Developer.
 
