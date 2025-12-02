@@ -21,8 +21,11 @@ documents as the knowledge base.
 ## 📁 Project Structure
 
     backend/
-    │── rag.py                # Main RAG application
-    │── helper_utils.py           # Utility helper functions
+    
+    │── src
+        |- scripts
+            |- rag.py
+            |- helper_utils.py           # Utility helper functions
     │── data/                     # PDF documents for ingestion
     │── storage/
     │     └── chroma/             # Persisted ChromaDB embeddings
