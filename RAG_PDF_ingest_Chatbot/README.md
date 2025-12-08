@@ -19,7 +19,6 @@ RAG_PDF_ingest_Chatbot/
         routes/
         utils/
         inngest/
-    frontend/
         streamlit_app.py
 ```
 
@@ -53,7 +52,7 @@ This launches the FastAPI server.
 ### 3. Start the Streamlit frontend
 
 ```
-uv run streamlit run frontend/streamlit_app.py
+uv run streamlit run backend/streamlit_app.py
 ```
 
 ### 4. Use the App
