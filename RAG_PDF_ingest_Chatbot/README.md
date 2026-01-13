@@ -67,6 +67,3 @@ uv run streamlit run backend/streamlit_app.py
 - You can modify the embedding model or chunking strategy inside the backend code.
 - Inngest must be running for background tasks to work properly.
 
-## License
-
-This project is for learning and personal use.
